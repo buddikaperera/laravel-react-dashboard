@@ -1,1 +1,11 @@
 https://dev.to/ifeanyichima/how-to-downgrade-from-react-18-to-1702-818
+
+admin bootrap css and js in the public html as well as the mainlayout page
+https://getbootstrap.com/
+
+npm install bootstrap@5.0.1
+
+include bootstrap css & js in the index.js file
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';

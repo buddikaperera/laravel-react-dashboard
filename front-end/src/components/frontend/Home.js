@@ -1,9 +1,8 @@
-import React from 'react'
+import React from 'react';
+import NavBar from '../../layout/front-end/NavBar';
 
 const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+	return <NavBar />;
+};
 
-export default Home
+export default Home;
